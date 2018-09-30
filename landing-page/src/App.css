@@ -1,0 +1,74 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.navbar{
+  min-height: 100px;
+}
+.logo{
+  width: 30vw;
+  margin: 10px;
+}
+.menu{
+
+border-radius: 10px; 
+max-width: 700px;
+font-size: 14px;
+}
+.nav-item{
+  margin: 10px;
+}
+.carousel-control-prev {
+ margin-left: 10vw;
+}
+.carousel-control-next {
+  margin-right: 10vw;
+ }
+ .blockquote{
+   margin: 50px;
+   text-align: center;
+ }
+.blockName{
+  margin: 10px;
+}
+.services{
+  margin-top: 20px;
+}
+
+table, th, td { border: 1px solid black; }
+td{
+  padding: 5px;
+}
+table{
+  margin: 10px auto;
+}
+.footer{
+  background:#DCDCDC;
+  margin: 0;
+  padding: 0;
+}
+.companyDetails{
+  margin: 0 auto;
+}
+form{
+  max-width: 300px;
+  margin: 20px auto;
+}
+.details{
+  margin-top: 20px; 
+}
+.officeHours {
+  margin-top: 30px; 
+}
+.registration{
+  margin-top: 20px;
+}
+.photoPlayer{
+  margin-bottom:10px;
+  max-width: 150px;
+  margin-top:20px; 
+}
+.viewProfile{
+  color:#8B0000;
+}
