@@ -1,0 +1,9 @@
+c:\users\annya\documents\visual studio 2017\Projects\erverPost\erverPost\bin\Debug\netcoreapp1.1\erverPost.deps.json
+c:\users\annya\documents\visual studio 2017\Projects\erverPost\erverPost\bin\Debug\netcoreapp1.1\erverPost.runtimeconfig.json
+c:\users\annya\documents\visual studio 2017\Projects\erverPost\erverPost\bin\Debug\netcoreapp1.1\erverPost.runtimeconfig.dev.json
+c:\users\annya\documents\visual studio 2017\Projects\erverPost\erverPost\bin\Debug\netcoreapp1.1\erverPost.dll
+c:\users\annya\documents\visual studio 2017\Projects\erverPost\erverPost\bin\Debug\netcoreapp1.1\erverPost.pdb
+c:\users\annya\documents\visual studio 2017\Projects\erverPost\erverPost\obj\Debug\netcoreapp1.1\erverPost.csprojResolveAssemblyReference.cache
+c:\users\annya\documents\visual studio 2017\Projects\erverPost\erverPost\obj\Debug\netcoreapp1.1\erverPost.AssemblyInfo.cs
+c:\users\annya\documents\visual studio 2017\Projects\erverPost\erverPost\obj\Debug\netcoreapp1.1\erverPost.dll
+c:\users\annya\documents\visual studio 2017\Projects\erverPost\erverPost\obj\Debug\netcoreapp1.1\erverPost.pdb
